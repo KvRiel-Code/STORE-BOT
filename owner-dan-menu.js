@@ -54,4 +54,4 @@ module.exports.helpMenu = (pushname) =>{
 • !open
 • !close
 • !hidetag
-}
+\`\`\``}
