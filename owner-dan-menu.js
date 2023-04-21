@@ -72,5 +72,12 @@ module.exports.helpMenu = (pushname) =>{
 » /updatesetbot
 » /delsetbot
 » /bot
-\`\`\`\`
+\`\`\`
+
+📝 *NOTE*: 
+Fitur nya bisa dipakai dengan atau
+tanpa prefix (simbol awalan). Sebagai contoh 
+fitur .owner (prefix)
+dan bisa juga owner (tanpa prefix)
+`
 }
