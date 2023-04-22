@@ -9,7 +9,7 @@ global.owner = ['6281344956704','6281242209942']
 global.sessionName = 'session'
 global.prefa = ['-_-']
 global.caption_pay = `Qris All Pay
-_QRIS ini khusus untuk Donasi saja`
+_QRIS ini khusus untuk Donasi saja_`
 //menu bot rapihin sendiri ya, belajar lah jadi anak mandiri.
 module.exports.helpMenu = (pushname) =>{
   return `Halo ${pushname}
